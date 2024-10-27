@@ -1,5 +1,5 @@
 # Pfeiffer Holman 2023
-##### This repository contains archived results from research conducted by Brady Pfeiffer in Spring/Summer 2023.
+##### This repository contains archived results from research conducted by Brady Pfeiffer in the Spring and Summer of 2023.
 
 ### Project Summary
 My research was conducted with George Fox University professor of physics Bob Hamilton. While I was taking one of his courses, Dr. Hamilton reached out and asked if I would be interested in conducting research with him. Together we applied to receive funding from a university sponsored grant. Our general research area, space physics, is of growing interest to industry due to increased commercial investment in orbital infrastructure and a renewed focus on space exploration. This was an amazing opportunity to learn things that made my head spin and gain research experience while getting to connect with a welcoming professor.
